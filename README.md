@@ -5,7 +5,9 @@
 - Node.js for backend applications
 
 # To Run
-1. cd expressBookReviews/final_project/
-2. npm install
-3. npm start
-4. localhost:5000
+```bash
+cd expressBookReviews/final_project/
+npm install
+npm start
+localhost:5000
+```
